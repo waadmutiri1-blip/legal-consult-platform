@@ -1,0 +1,36 @@
+body {
+  font-family: 'Tajawal', sans-serif;
+  background-color: #F7F9FB;
+  color: #2C2C2C;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #1E73BE;
+  color: white;
+  padding: 1em;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.btn {
+  background-color: #34A853;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #1E73BE;
+  color: white;
+  padding: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
